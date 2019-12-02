@@ -26,6 +26,7 @@ public class NumberScript : MonoBehaviour
     {
         var1.text = "0";
         var2.text = "0";
+        result.text = "0";
         var1.interactable = true;
         var2.interactable = true;
         addbtn.interactable = true;
