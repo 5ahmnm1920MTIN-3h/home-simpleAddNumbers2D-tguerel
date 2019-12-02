@@ -7,4 +7,5 @@
 
 ## Screenshot
 
-![Screenshot](sc_Operators_readme.jpg)
+
+![Screenshot](https://github.com/tguerel/home-simpleAddNumbers2D-tguerel/blob/master/sc_Operators_readme.JPG)
